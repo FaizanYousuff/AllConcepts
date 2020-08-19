@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AllConcepts</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- ... other resources ... -->
+    <string name="login">Log In</string>
+    <string name="logout">Log Out</string>
+    <string name="com_auth0_client_id">OkX7zLkgrwY17AMAo1YN3kHLIDJOkcBK</string>
+    <string name="com_auth0_domain">com-faizan</string>
+</resources>
